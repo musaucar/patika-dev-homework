@@ -1,0 +1,38 @@
+body{
+    text-align:  center;
+    font-family: 'Radio Canada', sans-serif;
+}
+
+/* .aboutUs-section{
+    display: flex;
+    justify-content: flex-start;
+} */
+
+
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+h1{
+    color: #b42247;
+}
+
+h2{
+    color: #713c96;
+}
+
+h4{
+    color: goldenrod;
+}
+
+.link-margin{
+    margin-right: 10px;
+}
+
+.img-margin{
+    margin: 2rem;
+}
